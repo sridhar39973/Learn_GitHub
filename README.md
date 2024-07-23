@@ -66,9 +66,10 @@ git push origin main
 
 # Pulling changes from GitHub
 git pull origin main
-Additional Tips
-Always pull the latest changes from the remote repository before starting new work to avoid conflicts.
-Use descriptive commit messages to keep track of changes easily.
-Regularly push your changes to keep your remote repository up-to-date.
-By following these steps, you will be able to effectively manage your GitHub repositories using VS Code and Git.
+
+# Additional Tips
+- Always pull the latest changes from the remote repository before starting new work to avoid conflicts.
+- Use descriptive commit messages to keep track of changes easily.
+- Regularly push your changes to keep your remote repository up-to-date.
+- By following these steps, you will be able to effectively manage your GitHub repositories using VS Code and Git.
 
